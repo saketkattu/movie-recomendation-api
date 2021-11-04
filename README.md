@@ -1,6 +1,3 @@
-
-deployed link : https://movie-recommendation-api1.herokuapp.com/docs
-
 # Movie Recommendation API 
 
 A movie Recommendation Engine which returns a list of similar movies 
@@ -17,7 +14,10 @@ build using content based Recommendation
 
 
 ## API Reference
-
+#### API Endpoint
+```http
+https://movie-recommendation-api1.herokuapp.com
+````
 #### Get Recommedations
 
 ```http
