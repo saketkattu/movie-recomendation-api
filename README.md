@@ -61,3 +61,14 @@ Start the server
 **Application Development** FastAPI, Docker ,Heroku 
 
 **Machine Learning** Sckit-Learn , Pandas ,Numpy ,Scipy 
+
+
+## Future Improvements 
+
+- Integrations with a frontend application
+- Running a API in Dockerized Enviroment like Google App Engine
+- Making the ML model better with addition of Data 
+- Experimenting with the use of Deep Learning Techniques to improve the recmmedation system ( e.g TabNet, Embedding Layers)
+- Building a Data Flywheel to automatically re-train the model based on addition of real world data 
+
+
