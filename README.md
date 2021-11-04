@@ -58,6 +58,6 @@ Start the server
 
 ## Tech Stack
 
-**Application Development** FastAPI, Docker  
+**Application Development** FastAPI, Docker ,Heroku 
 
 **Machine Learning** Sckit-Learn , Pandas ,Numpy ,Scipy 
