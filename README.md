@@ -10,7 +10,7 @@ build using content based Recommendation
 
 ## Demo
 
-![](/misc/Movie Recomendation API.gif)
+![](Movie Recomendation API.gif)
 
 
 
