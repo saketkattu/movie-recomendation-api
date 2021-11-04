@@ -55,3 +55,9 @@ Start the server
 ```bash
   uvicorn app:app --reload
 ```
+
+## Tech Stack
+
+**Application Development** FastAPI, Docker  
+
+**Machine Learning** Sckit-Learn , Pandas ,Numpy ,Scipy 
