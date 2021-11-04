@@ -10,7 +10,7 @@ build using content based Recommendation
 
 ## Demo
 
-![](https://www.loom.com/share/0cc3e8dd193646589e00e591c83cbab8?sharedAppSource=personal_library)
+![](https://media.giphy.com/media/RxM6bTb58GH6V7Oju0/giphy.gif)
 
 
 
