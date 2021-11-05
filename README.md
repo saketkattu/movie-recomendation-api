@@ -7,8 +7,8 @@ build using content based Recommendation
 
 ## Demo
 
-![](https://media.giphy.com/media/RxM6bTb58GH6V7Oju0/giphy.gif)
 
+<img src="https://media.giphy.com/media/RxM6bTb58GH6V7Oju0/giphy.gif" width="724" height="480">
 
 
 
